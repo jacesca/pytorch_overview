@@ -1,5 +1,5 @@
 ## Others
-- Proyect in GitHub: https://github.com/jacesca/CICD-Workflow
+- Proyect in GitHub: https://github.com/jacesca/pytorch_overview
 - Launch jupyter notebook
 ```
 jupyter notebook

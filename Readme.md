@@ -2,7 +2,7 @@
 - Fork the project into your GitHub
 - Clone it into your dektop
 ```
-git clone https://github.com/jacesca/CICD-Workflow.git
+git clone https://github.com/jacesca/pytorch_overview.git
 ```
 - Setup environment (it requires python3)
 ```
@@ -22,5 +22,6 @@ pip install pyyaml
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124  # Enables GPU
 pip install ExpectException
 pip install scikit-learn
+pip install torchmetrics
 ```
 
